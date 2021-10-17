@@ -89,9 +89,6 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: HighTechU
-    web_url: https://hightechuca
-    image_url: https://pbs.twimg.com/profile_images/1407446480181358596/ZJT9pAFv_400x400.jpg
 
   - name: Junior Achievement of BC
     web_url: https://jabc.ca/
@@ -104,4 +101,3 @@ topics:
   - name: Capital Investment Network
     web_url: https://www.capinvestment.net/
     image_url: https://media-exp1.licdn.com/dms/image/C560BAQEqyNAeh5_P-Q/company-logo_200_200/0/1563899761281?e=1642636800&v=beta&t=Lt64GmPkd0vMaytAfSzusMbBRs_a_vi-nd3qnJzlQJY
-theme: jekyll-theme-cayman
