@@ -21,12 +21,54 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+    - personal-website
+    - accelerator-portfolio
+    - pathways2quantum
+    - portfolio
+    - hightechu-academy-papyruscity
+    - hightechu-summer2020
+    - hello
+    - hightechu-academy-stickyboard 
+    - skills-lab-covid19
+    - hightechu-academy-victorianaloxonemap
+    - hightechu-academy-meetmaps
+    - hightechu-openspace
+    - hightechu-ez-distancing
+    - hightechq
+    - official-website
+    - internship-application-CSJ-2020
+    - hightechu-academy-questionanswer
+    - hightechu-academy-autogenda
+    - hightechu-academy-eventpro
+    - hightechu-academy-emojiland
+    - hightechu-academy-hashtagproject
+    - hightechu-academy-homeworkhelper
+    - hightechu-academy-zooloo
+    - hightechu-academy-zenplanner
+    - hightechu-academy-gigs
+    - hightechu-academy-productivitycalculator
+    - hightechu-academy-giftme
+    - hightechu-academy-homerecipie
+    - hightechu-academy-forestfiredetector
+    - hightechu-academy-bubblet
+    - hightechu-academy-radbag
+    - hightechu-academy-effortlessdistancing
+    - hightechu-spring2019
+    - hightechu wp-bootrap-navwalker
+    - hightechu-academy-project-fantasticblackberry 
+    - flarum-ext-aqueduct 
+    - sci-fi-or-fantasy-data 
+    - hub-project-scifi-or-fantasy 
+    - hub-project-say-what-you-see 
+    - hightechu-academy-homerecipe 
+    - jasonette 
+    - links
+    - hightechu-discord-bot 
+    - wp-bootstrap-navwalker 
 
 # social_media:
   # behance: your_username
